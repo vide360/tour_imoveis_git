@@ -1,0 +1,22 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_487FD449_5FED_9A52_41B8_881B7DA3C763.label = COzinha 01
+panorama_55FD6265_5EE3_FE52_41C7_1EF91DEECF95.label = Closet suíte master
+panorama_52A1C8A0_5EED_EAD2_41CE_D4639540E910.label = Cozinha1
+panorama_5450190D_5EED_EBD3_41CE_5419041BE97E.label = Cozinha2
+panorama_5454E47F_5EED_9A2F_41C4_F5D1ACA40A16.label = Frente 2
+panorama_499EA91C_5FE4_6BF1_41B7_010CC0657DDC.label = Gazebo
+panorama_545420DE_5EED_BA6E_41CB_2A4EBBB37A20.label = Sala
+panorama_543BEE82_5EE3_E6D1_41C8_31291516ADAA.label = Suíte master
+panorama_543B6B76_5EE3_AE31_41D3_DE458B65C0FE.label = Wc suíte master
+panorama_49D684AC_5FE3_9AD2_4185_FA8A0703746A.label = área guourmet2
+
+## Tour
+
+### Description
+
+### Title
+tour.name = tour imóveis modelos
